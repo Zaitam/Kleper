@@ -1,5 +1,6 @@
 # Kleper
 MacOS Clipboard Manager made whit Swift
+
 ![Alt text](/Images/ScreenShoot.png?raw=true "Optional Title")
 
 ## What does it have in special?
@@ -13,5 +14,5 @@ Based on the mathematician Johannes Kepler, and just moving the L
 Nah, there are lots of better ones on the internet, such as [Maccy](https://maccy.app) and [Flycut](https://github.com/TermiT/Flycut).
 If any feature is requested I might implement it
 
-##Extra Info:
+## Extra Info:
 It only holds last 5 items, this limit can be expand or removed in the `AppDelegate.swift` file.
